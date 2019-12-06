@@ -37,11 +37,15 @@ label {
     width: 70%;
     height: 110px;
 }
-.sendResultsBtn {
+.finalBtnContainer {
+    align-self: start;
     grid-column-start: 1;
     grid-row-start: 2;
+    justify-self: center;
     align-self: end;
     justify-self: center;
+}
+.sendResultsBtn {
     background: #000000;
     border: none;
     border-radius: 7px;

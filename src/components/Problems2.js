@@ -4,26 +4,30 @@ import { Link } from "react-router-dom";
 class Problems extends Component {
   render(){
     return(
-      <div>
+      <div className="problemsContainer">
+        <img className="companyLogo" src={require('../images/astraLogo.png')} alt="Company logo"></img>
+        <h1 className="titles"> 2. CODE PROBLEM</h1>
+        <div className="excersise">
         <p>
         Given an array, find the integer that appears an odd number of times.
 
 There will always be only one integer that appears an odd number of times.
           </p>      
-          <div contentEditable='true'>
-        <p> { `function findOdd(A) {
-  //happy coding!
-  return 0;
-}`} </p>
+          <div className="editableBox" contentEditable='true'>
+        <p> {`function findOdd(A) {`}<br></br>
+        {`//happy coding!`}<br></br>
+        {`return 0;`}<br></br>
+        {`};`} </p>
       </div>
-      <div>
+      </div>
+      <div className="btnContainer">
         <Link to='/FinalScreen'>
-        <button>
+        <button className="sendBtn">
           Enviar hasta este punto
         </button>
         </Link>
         <Link to='/FinalScreen'>
-        <button>
+        <button className="continueBtn">
           Continuar
         </button>
         </Link>

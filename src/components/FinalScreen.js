@@ -15,13 +15,12 @@ function FinalScreen () {
             <label htmlFor='comment'>Comments (optional): </label><br></br>
             <textarea name='comment' id='comment' className='comment' type='text' placeholder="Write a comment..."/>
         </div> 
-        <div>
+        <div className="finalBtnContainer">
         <Link to='/'>
         <button className="sendResultsBtn" onClick={()=>alert("Your results have been sent")}>SEND RESULTS</button>
-        
         </Link>
-        <img className="tshLogo" src={require('../images/tshLogo.png')} alt="TSH logo"></img>
         </div>
+        <img className="tshLogo" src={require('../images/tshLogo.png')} alt="TSH logo"></img>
       </div>
     );
   }
