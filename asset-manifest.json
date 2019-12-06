@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/astralab-candidates/static/css/main.c8d356da.chunk.css",
-    "main.js": "/astralab-candidates/static/js/main.1988b4f7.chunk.js",
-    "main.js.map": "/astralab-candidates/static/js/main.1988b4f7.chunk.js.map",
+    "main.js": "/astralab-candidates/static/js/main.8e858f2c.chunk.js",
+    "main.js.map": "/astralab-candidates/static/js/main.8e858f2c.chunk.js.map",
     "runtime-main.js": "/astralab-candidates/static/js/runtime-main.a4c82c83.js",
     "runtime-main.js.map": "/astralab-candidates/static/js/runtime-main.a4c82c83.js.map",
-    "static/js/2.13835c4c.chunk.js": "/astralab-candidates/static/js/2.13835c4c.chunk.js",
-    "static/js/2.13835c4c.chunk.js.map": "/astralab-candidates/static/js/2.13835c4c.chunk.js.map",
+    "static/js/2.77ba565f.chunk.js": "/astralab-candidates/static/js/2.77ba565f.chunk.js",
+    "static/js/2.77ba565f.chunk.js.map": "/astralab-candidates/static/js/2.77ba565f.chunk.js.map",
     "index.html": "/astralab-candidates/index.html",
-    "precache-manifest.dbd1fcbf47c72a8514e21143a469986b.js": "/astralab-candidates/precache-manifest.dbd1fcbf47c72a8514e21143a469986b.js",
+    "precache-manifest.aa4b75a4200292bd778e73be6b15252c.js": "/astralab-candidates/precache-manifest.aa4b75a4200292bd778e73be6b15252c.js",
     "service-worker.js": "/astralab-candidates/service-worker.js",
     "static/css/main.c8d356da.chunk.css.map": "/astralab-candidates/static/css/main.c8d356da.chunk.css.map",
-    "static/js/2.13835c4c.chunk.js.LICENSE": "/astralab-candidates/static/js/2.13835c4c.chunk.js.LICENSE",
+    "static/js/2.77ba565f.chunk.js.LICENSE": "/astralab-candidates/static/js/2.77ba565f.chunk.js.LICENSE",
     "static/media/astraLogo.png": "/astralab-candidates/static/media/astraLogo.45b0848e.png",
     "static/media/candidatesLogo.png": "/astralab-candidates/static/media/candidatesLogo.4a0281ef.png",
     "static/media/tshLogo.png": "/astralab-candidates/static/media/tshLogo.6bcb4cf4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a4c82c83.js",
-    "static/js/2.13835c4c.chunk.js",
+    "static/js/2.77ba565f.chunk.js",
     "static/css/main.c8d356da.chunk.css",
-    "static/js/main.1988b4f7.chunk.js"
+    "static/js/main.8e858f2c.chunk.js"
   ]
 }
