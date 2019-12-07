@@ -8,10 +8,9 @@ class Problems extends Component {
         <img className="companyLogo" src={require('../images/astraLogo.png')} alt="Company logo"></img>
         <h1 className="titles"> 2. CODE PROBLEM</h1>
         <div className="excersise">
-        <p>
+        <p className="codeProblemText">
         Given an array, find the integer that appears an odd number of times.
-
-There will always be only one integer that appears an odd number of times.
+        There will always be only one integer that appears an odd number of times.
           </p>      
           <div className="editableBox" contentEditable='true'>
         <p> {`function findOdd(A) {`}<br></br>
@@ -23,12 +22,12 @@ There will always be only one integer that appears an odd number of times.
       <div className="btnContainer">
         <Link to='/FinalScreen'>
         <button className="sendBtn">
-          Enviar hasta este punto
+          SEND AT THIS POINT
         </button>
         </Link>
         <Link to='/FinalScreen'>
         <button className="continueBtn">
-          Continuar
+          CONTINUE
         </button>
         </Link>
       </div>

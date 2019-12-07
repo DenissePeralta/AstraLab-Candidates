@@ -9,7 +9,7 @@ class Problems extends Component {
         <img className="companyLogo" src={require('../images/astraLogo.png')} alt="Company logo"></img>
         <h1 className="titles">1. CODE PROBLEM</h1>
         <div className="excersise">
-        <p>
+        <p className="codeProblemText">
         Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
           </p>      
           <div className="editableBox" contentEditable='true'>
